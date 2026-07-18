@@ -1,5 +1,4 @@
 package Lec12;
-
 public class Sort_0_1_2 {
     public void swap(int[] nums ,int l , int r){
         int temp = nums[l];
